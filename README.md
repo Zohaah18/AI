@@ -77,4 +77,5 @@ Example:In an adversarial game where unpredictability is an advantage a random s
 Example:A thermostat that maintains a room at 22°C by turning heating on or off is rational as long as it achieves the goal of maintaining temperature.
 
 #Task#5:
+
 ![ai_ass](https://github.com/user-attachments/assets/02016faa-a633-4ef7-9fea-6f846f89d205)
